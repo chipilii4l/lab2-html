@@ -1,5 +1,5 @@
-#Chipili Chipili 2021495787
-#Ruth Chipompo 2021419185
+# Chipili Chipili 2021495787
+# Ruth Chipompo 2021419185
 
 # Lab 2 - HTML5 Structured Web Page
 
